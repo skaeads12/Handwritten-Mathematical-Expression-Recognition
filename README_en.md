@@ -1,4 +1,4 @@
-|[한국어](https://github.com/skaeads12/Handwritten-Mathematical-Expression-Recognition/blob/main/README.md)|[ENGLISH](https://github.com/skaeads12/Handwritten-Mathematical-Expression-Recognition/blob/main/README_en.md)|
+|[한국어](https://github.com/skaeads12/Handwritten-Mathematical-Expression-Recognition/blob/main/README.md)|ENGLISH|
 |---|---|
 
 # Handwritten-Mathematical-Expression-Recognition
