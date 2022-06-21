@@ -10,6 +10,35 @@
 
 해당 모델은 손으로 작성된 수식을 인식하기 위한 모델입니다. Attention 기반의 Encoder-Decoder 모델을 사용하였고, 인코더와 디코더는 각각 ResNet18과 LSTM이 사용되었습니다. CROHME 2014, CROHME 2016 데이터셋을 통하여 학습되었습니다.
 
+# Usage
+
+##### 학습
+
+```
+mkdir trained_model/
+
+python main.py \
+  --task "train" \
+  --data_dir "data/" \
+  --image_dir "data/data_png_Training/" \
+  --batch_size 32 \
+  --sequence_length 64 \
+  --save_dir "trained_model/" \
+  --patience 5
+```
+
+##### 검증
+
+```
+python main.py \
+  --task "eval" \
+  --data_dir "data/" \
+  --image_dir "data/data_png_Training/" \
+  --batch_size 32 \
+  --sequence_length 64 \
+  --save_dir "./predictions.txt"
+```
+
 # 모델 구조
 
 ![math_expression](https://user-images.githubusercontent.com/45366231/174712910-a337d6d6-220b-44c9-8c63-132dd94a1d63.jpg)
