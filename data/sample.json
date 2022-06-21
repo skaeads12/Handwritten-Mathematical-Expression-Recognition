@@ -1,0 +1,130 @@
+[
+	{
+		"images": "formulaire036-equation010.png",
+		"labels": "102 \\times (136 / 164) \\geq 84"
+	},
+	{
+		"images": "MfrDB2159.png",
+		"labels": "| \\sin z | = \\sqrt{1 - \\cos^{2} z}"
+	},
+	{
+		"images": "200922-1017-145.png",
+		"labels": "t"
+	},
+	{
+		"images": "79_carlos.png",
+		"labels": "p = \\sqrt{a^2 + b^2 - 2ab \\cos A}"
+	},
+	{
+		"images": "2009213-137-227.png",
+		"labels": "{ f + \\left [ F \\right ] }"
+	},
+	{
+		"images": "formulaire005-equation056.png",
+		"labels": "x - n"
+	},
+	{
+		"images": "82_leo.png",
+		"labels": "q = \\sqrt{(\\frac{B-A}{C})^2 + 1} + \\frac{B-A}{C}"
+	},
+	{
+		"images": "formulaire008-equation072.png",
+		"labels": "Y^p-X^p"
+	},
+	{
+		"images": "KME2G3_11_sub_95.png",
+		"labels": "\\sqrt {1 + \\sqrt {2 + \\sqrt {3 + \\sqrt 4}}}"
+	},
+	{
+		"images": "MfrDB1960.png",
+		"labels": "\\int\\limits_{a}^{a} f ( x ) dx = 0"
+	},
+	{
+		"images": "200923-1553-276.png",
+		"labels": "\\sqrt { { \\mbox { Y } - \\mbox { pa } } }"
+	},
+	{
+		"images": "200924-1331-220.png",
+		"labels": "t"
+	},
+	{
+		"images": "MfrDB2286.png",
+		"labels": "\\frac{\\sqrt{99 {x^{7}}}}{11 {x^{3}}}"
+	},
+	{
+		"images": "formulaire038-equation013.png",
+		"labels": "10^{20}"
+	},
+	{
+		"images": "200924-1312-213.png",
+		"labels": "{ y } _ { \\mbox { z } }"
+	},
+	{
+		"images": "200924-1331-270.png",
+		"labels": "{ - { { H } ^ { { \\mbox { v } - \\mbox { a } } } \\mbox { bM } } }"
+	},
+	{
+		"images": "MfrDB3224.png",
+		"labels": "\\int\\limits_{a}^{b} f ( x ) dx = F ( b ) - F ( a )"
+	},
+	{
+		"images": "formulaire021-equation041.png",
+		"labels": "r=r(\\theta)"
+	},
+	{
+		"images": "formulaire010-equation029.png",
+		"labels": "i=(0,1)"
+	},
+	{
+		"images": "MfrDB3202.png",
+		"labels": "3 {a^{2}} {b^{3}} + 5 {a^{3}} {b^{2}} - \\frac{{a^{5}} {b^{8}}}{2}"
+	},
+	{
+		"images": "TrainData2_11_sub_51.png",
+		"labels": "\\lim_{x \\rightarrow \\frac{\\pi}{2} + 0} \\tan x = - \\infty"
+	},
+	{
+		"images": "200925-1126-171.png",
+		"labels": "m"
+	},
+	{
+		"images": "formulaire007-equation020.png",
+		"labels": "179 \\times ((10 - 77) \\times (21 + 102)) \\geq -1475139"
+	},
+	{
+		"images": "2009212-952-29.png",
+		"labels": "\\mbox { j }"
+	},
+	{
+		"images": "formulaire023-equation017.png",
+		"labels": "p_2(s)"
+	},
+	{
+		"images": "93_david.png",
+		"labels": "r(r_0 \\sin(\\theta - \\theta_0)- r_1 \\sin (\\theta - \\theta_1) ) = r_0 r_1 \\sin (\\theta_1 - \\theta_0)"
+	},
+	{
+		"images": "MfrDB1095.png",
+		"labels": "A = x + 1"
+	},
+	{
+		"images": "formulaire027-equation034.png",
+		"labels": "\\lim_{t \\rightarrow t_0}\\frac{y(t)}{x(t)} = \\pm \\infty"
+	},
+	{
+		"images": "formulaire007-equation069.png",
+		"labels": "m_1+m_2=m"
+	},
+	{
+		"images": "formulaire027-equation012.png",
+		"labels": "g(w)= \\sum_{n=1}^\\infty g_n w^n"
+	},
+	{
+		"images": "TrainData2_9_sub_88.png",
+		"labels": "3 0 \\times 2 9 x^{2 8}"
+	},
+	{
+		"images": "formulaire022-equation060.png",
+		"labels": "((64 / 69) \\times 143) - (181 / 166) \\geq 131"
+	}
+]
